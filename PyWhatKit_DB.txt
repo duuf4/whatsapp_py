@@ -1,0 +1,35 @@
+Date: 1/8/2025
+Time: 7:53
+Phone Number: +5519997754060
+Message: Olá! Teste com tempo correto de espera.
+--------------------
+Date: 1/8/2025
+Time: 7:55
+Phone Number: +5519997754060
+Message: Olá! Teste com tempo correto de espera.
+--------------------
+Date: 1/8/2025
+Time: 7:58
+Phone Number: +5519997754060
+Message: Olá! Teste com tempo correto de espera.
+--------------------
+Date: 1/8/2025
+Time: 8:2
+Phone Number: +5519997754060
+Message: Olá! Teste com tempo correto de espera.
+--------------------
+Date: 1/8/2025
+Time: 8:14
+Phone Number: +5519997754060
+Message: Olá! Teste com tempo correto de espera.
+--------------------
+Date: 1/8/2025
+Time: 8:21
+Phone Number: +5519997754060
+Message: Olá! Teste com tempo correto de espera.
+--------------------
+Date: 1/8/2025
+Time: 8:25
+Phone Number: +5519997754060
+Message: Olá! Teste com tempo correto de espera.
+--------------------
