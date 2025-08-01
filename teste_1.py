@@ -5,18 +5,14 @@ import time
 import pyautogui
 import spacy
 
+
+
+text = input("Digite a mensagem que deseja enviar: ")
+
 def mensagem():
     nlp = spacy.load("pt_core_news_sm")
-    text = (
-    "Quando Sebastian Thrun "
-    "começou a trabalhar em carros autônomos no Google, "
-    "em 2007, poucas pessoas fora da empresa o levaram a sério. Posso dizer que "
-    "CEOs de alto escalão das principais montadoras americanas apertavam minha "
-    "mão e se afastavam porque não valia a pena conversar comigo. "
-    "Disse Thrun, em entrevista ao Recode no início desta semana. "
-    "Hoje, Thrun é um dos principais nomes da indústria de carros autônomos. "
-    "Ele é o fundador e CEO da startup de carros autônomos Kitty Hawk."
-    )
+ 
+   
     
     doc = nlp(text)
 
