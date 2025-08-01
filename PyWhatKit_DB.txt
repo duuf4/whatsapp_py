@@ -33,3 +33,13 @@ Time: 8:25
 Phone Number: +5519997754060
 Message: Olá! Teste com tempo correto de espera.
 --------------------
+Date: 1/8/2025
+Time: 12:53
+Phone Number: +5519997754060
+Message: Quando Sebastian Thruncomeçou a trabalhar em carros autônomos no Google,em 2007, poucas pessoas fora da empresa o levaram a sério. Posso dizer que CEOs de alto escalão das principais montadoras americanas apertavam minha mão e se afastavam porque não valia a pena conversar comigo. Disse Thrun, em entrevista ao Recode no início desta semana.
+--------------------
+Date: 1/8/2025
+Time: 12:55
+Phone Number: +5519997754060
+Message: Quando Sebastian Thruncomeçou a trabalhar em carros autônomos no Google,em 2007, poucas pessoas fora da empresa o levaram a sério. Posso dizer que CEOs de alto escalão das principais montadoras americanas apertavam minha mão e se afastavam porque não valia a pena conversar comigo. Disse Thrun, em entrevista ao Recode no início desta semana.
+--------------------
